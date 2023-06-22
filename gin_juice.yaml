@@ -109,7 +109,7 @@ jobs:
   - parameters:
       template: "traditional-pdf"
       reportDir: ""
-      reportTitle: "ZAP Scanning Report"
+      reportTitle: "Adams CxOne Scanning Report"
       reportDescription: ""
     name: "report-pdf"
     type: "report"
