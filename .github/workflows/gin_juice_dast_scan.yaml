@@ -32,7 +32,7 @@ jobs:
         with:
             command: web
             config: './gin_juice.yaml'
-            environment_id: "16c7f065-c993-43a5-8403-31856d3814e5"
+            environment_id: "651efbce-4919-437f-a7d2-6a4eee973a6d"
             log_level: info
 #            base_url: "https://localhost.cxast.net"
             base_url: "https://ast.checkmarx.net"
